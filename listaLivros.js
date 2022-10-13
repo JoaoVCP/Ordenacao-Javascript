@@ -23,6 +23,6 @@ const precoLivros = [
     titulo: "Phyton",
     preco: 20
     }
-]
+];
 
 module.exports = precoLivros;
